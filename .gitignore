@@ -1,0 +1,9 @@
+iOS/bin
+iOS/obj
+Droid/obj/
+Droid/bin/
+HorseShow/bin/
+HorseShow/obj/
+UITests/bin/
+UITests/obj/
+iOS/Resources/

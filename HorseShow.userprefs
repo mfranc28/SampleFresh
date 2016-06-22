@@ -1,0 +1,39 @@
+﻿<Properties StartupItem="Droid\HorseShow.Droid.csproj">
+  <MonoDevelop.Ide.ItemProperties.HorseShow.iOS PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <Breakpoint file="/Users/michelangelof/Documents/Sviluppo/Xamarin/HorseShow-Xamarin/iOS/ParseStorage.cs" line="107" column="1" />
+    <Breakpoint file="/Users/michelangelof/Documents/Sviluppo/Xamarin/HorseShow-Xamarin/Droid/ParseStorage.cs" line="125" column="1" />
+    <Breakpoint file="/Users/michelangelof/Documents/Sviluppo/Xamarin/HorseShow-Xamarin/Droid/ParseStorage.cs" line="98" column="1" />
+    <Breakpoint file="/Users/michelangelof/Documents/Sviluppo/Xamarin/HorseShow-Xamarin/HorseShow/View/ClassesGroup.xaml.cs" line="33" column="1" />
+    <Breakpoint file="/Users/michelangelof/Documents/Sviluppo/Xamarin/HorseShow-Xamarin/iOS/ParseStorage.cs" line="118" column="1" />
+    <Breakpoint file="/Users/michelangelof/Documents/Sviluppo/Xamarin/HorseShow-Xamarin/HorseShow/View/Schedule.xaml.cs" line="40" column="1" />
+    <Breakpoint file="/Users/michelangelof/Documents/Sviluppo/Xamarin/HorseShow-Xamarin/iOS/ParseStorage.cs" line="113" column="1" />
+    <Breakpoint file="/Users/michelangelof/Documents/Sviluppo/Xamarin/HorseShow-Xamarin/HorseShow/View/Schedule.xaml.cs" line="19" column="29" />
+    <Breakpoint file="/Users/michelangelof/Documents/Sviluppo/Xamarin/HorseShow-Xamarin/HorseShow/View/ClassesGroup.xaml.cs" line="37" column="1" />
+    <Breakpoint file="/Users/michelangelof/Documents/Sviluppo/Xamarin/HorseShow-Xamarin/iOS/ParseStorage.cs" line="54" column="1" />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="HorseShow/View/ClassesGroup.xaml.cs">
+    <Files>
+      <File FileName="iOS/ParseStorage.cs" Line="107" Column="1" />
+      <File FileName="HorseShow/View/ClassesGroup.xaml" Line="19" Column="14" />
+      <File FileName="HorseShow/View/ClassesGroup.xaml.cs" Line="40" Column="48" />
+      <File FileName="HorseShow/Helpers/HSEventsManager.cs" Line="24" Column="42" />
+      <File FileName="HorseShow/Interface/IParseStorage.cs" Line="14" Column="64" />
+      <File FileName="HorseShow/View/Schedule.xaml" Line="4" Column="34" />
+      <File FileName="HorseShow/View/Schedule.xaml.cs" Line="19" Column="40" />
+      <File FileName="HorseShow/Model/HSEventModel.cs" Line="74" Column="38" />
+      <File FileName="HorseShow/View/HomePage.cs" Line="282" Column="51" />
+      <File FileName="Droid/ParseStorage.cs" Line="94" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>e.SelectedItem.discipline</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.HorseShow.Droid PreferredExecutionTarget="Android.Nexus 4 (KitKat)" />
+</Properties>
